@@ -1,0 +1,13 @@
+﻿{
+	"id": "news",
+	"type": "news",
+	"label": "News",
+        "items": [
+                {
+                        "headline": "Phoenix is out!",
+                        "rubric": "Info",
+                        "text": "This is a prototype for Celebi Ground Handling Application"
+                }
+        ]
+
+}

@@ -1,0 +1,13 @@
+{
+   "id":"infoboxes",
+   "label":"Infoboxes",
+   "type":"infoboxes",
+   "items":[
+      {
+         "id":"help",
+         "label":"Help",
+         "icon":"images/logos/celebi/celebi.jpg",
+         "text":"OUR STRENGTH IS OUR SERVICE"
+      }
+   ]
+}

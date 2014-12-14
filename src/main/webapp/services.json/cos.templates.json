@@ -1,0 +1,11 @@
+{
+	"id": "app.templates",
+	"type": "template",
+	"path": "templates",
+
+	"items":
+	[
+		{ "type": "html", "index": "authentication", "file": "html/login.html" },
+		{ "type":"html",	"index": "news", "file": "html/news.html" }
+	]
+}

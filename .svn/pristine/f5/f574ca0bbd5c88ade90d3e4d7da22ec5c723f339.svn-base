@@ -1,0 +1,75 @@
+<h2 class="title">Document query (0)</h2>
+<div class="dialog isProcess" id="authentication">
+	<div class="tabs">
+		<ul class="tabNav clearfix">
+			<li id="signin-tab"><a>login (0)</a></li>
+			<li id="help-tab"><a>help (0)</a></li>
+		</ul>
+		<!-- /tabNav -->
+		<div class="panelContainer clearfix">
+			<!-- # BO PANEL QUERY # -->
+			<div id="signin" class="tabPanel isTask flex isFlex">
+				<div class="tableWrapper">
+					<table class="gridTable">
+						<tr>
+							<td class="col4"><label>Username (0)</label>
+								<div class="wrap">
+									<input id="username" />
+								</div></td>
+							<td class="col4"></td>
+							<td class="col4"></td>
+							<td class="col4"></td>
+						</tr>
+					</table>
+					<table class="gridTable">
+						<tr>
+							<td class="col4"><label>Password (0)</label>
+								<div class="wrap">
+									<input id="password" />
+								</div></td>
+							<td class="col4"></td>
+							<td class="col4"></td>
+							<td class="col4"></td>
+						</tr>
+					</table>
+				</div>
+				<div class="tabfooter">
+					<div class="inner">
+						<div class="buttons" id="actions"></div>
+						<!-- /actions -->
+						<div id="servicestatus"></div>
+					</div>
+				</div>
+				<!-- /tabfooter -->
+			</div>
+			<!-- /tabPanel -->
+			<!-- # EO PANEL QUERY # -->
+			<div id="help" class="tabPanel isTask flex isFlex">
+				<div class="tableWrapper">
+					<table class="gridTable">
+						<tr>
+							<td class="col4"></td>
+							<td class="col4"></td>
+							<td class="col4"></td>
+							<td class="col4"></td>
+						</tr>
+					</table>
+				</div>
+				<!-- /tablewrapper -->
+				<div class="tabfooter">
+					<div class="inner">
+						<div class="buttons" id="actions"></div>
+						<!-- /actions -->
+						<div id="servicestatus"></div>
+					</div>
+				</div>
+				<!-- /tabfooter -->
+			</div>
+			<!-- /tabPanel -->
+		</div>
+	</div>
+	<!-- /panelContainer -->
+</div>
+<!-- /tabs -->
+</div>
+<!-- /dialog -->

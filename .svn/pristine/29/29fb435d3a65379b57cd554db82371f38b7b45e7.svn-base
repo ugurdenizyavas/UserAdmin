@@ -1,0 +1,17 @@
+{
+    "id":"cos.menu",
+    "type":"menu",
+    "link":"index.html",
+    "label":"Authorization",
+    "items":[
+        {
+            "id":"menu.login",
+            "label":"Login",
+            "services":[
+                {
+                    "url":"authentication/init"
+                }
+            ]
+        }
+    ]
+}
